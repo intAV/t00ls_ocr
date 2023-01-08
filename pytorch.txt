@@ -1,0 +1,19 @@
+﻿1.python3.7 64位
+	https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+2.CUDA10.2 和 cudnn
+	https://developer.nvidia.com/cuda-10.2-download-archive 
+	https://developer.nvidia.com/rdp/cudnn-download (cudnn-windows-x86_64-8.7.0.84_cuda10-archive.zip)
+	验证安装:nvcc -V
+3.pip install numpy -i https://mirrors.ustc.edu.cn/pypi/web/simple/
+4.pytorch
+	https://download.pytorch.org/whl/torch_stable.html (torch-1.8.0-cp37-cp37m-win_amd64)
+	pip install torch-1.8.0-cp37-cp37m-win_amd64.whl
+	pip install torchvision==0.9.0 torchaudio==0.8.0
+	验证安装:
+	import torch
+	print(torch.cuda.is_available())
+	print(torch.version.cuda)
+5.pip install tb-nightly -i https://mirrors.ustc.edu.cn/pypi/web/simple/
+6.pip install captcha -i https://mirrors.ustc.edu.cn/pypi/web/simple/
+7.远程部署到调用
+	https://zhuanlan.zhihu.com/p/137390462
