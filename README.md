@@ -8,6 +8,9 @@
 #### 训练集: 23000
 #### 正确率: 60%
 
+#### ![v2-b3e2b4a3cfbfe35022fbf766d047fc9e_r](https://user-images.githubusercontent.com/38396198/211205998-8555421a-3685-473b-9b00-e2b3bcc91152.png)
+
+
 #### ![QQ截图20230108210324](https://user-images.githubusercontent.com/38396198/211204230-0ec85140-4167-4e25-b38f-d4ff5d0f3f6f.png)
 
 #### ![QQ截图20230108210115](https://user-images.githubusercontent.com/38396198/211204222-ea2dfa8b-fd44-4725-9afb-5409d71c99a9.png)
