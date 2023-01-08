@@ -1,6 +1,6 @@
 # ![visitors](https://visitor-badge.glitch.me/badge?page_id=intAV.t00ls_ocr) 
 # ![](https://img.shields.io/badge/python-3.7-red) ![](https://img.shields.io/badge/pytorch-1.8.0-red)  ![](https://img.shields.io/badge/CUDA-10.2-green)  ![](https://img.shields.io/badge/cuda-10-green)   ![](https://img.shields.io/badge/torchvision-0.9.0-green)  ![](https://img.shields.io/badge/torchaudio-0.8.0-green) 
-## t00ls_ocr: 利用神经网络对土司安全论坛验证码的训练与识别
+## 利用神经网络对土司安全论坛验证码的训练与识别
 
 #### 测试集: 5000
 #### 训练集: 23000
